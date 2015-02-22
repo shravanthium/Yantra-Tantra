@@ -9,9 +9,11 @@ Display the following:
 1. Mean (m):  
 
 ...The average of all the integers.
+
 2. Median: 
 
 ...In case, the number of integers is odd, the middle element; else, the average of the middle two elements.
+
 3. Mode: 
 
 ...The element(s) which occurs most frequently. 
