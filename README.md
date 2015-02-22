@@ -31,8 +31,8 @@ the mean, median, mode, standard deviation and confidence interval boundaries.
 ```
 * Constraints
 ```
-..10 <= N <= 2500 
-..0 < xi <= 105
+10 <= N <= 2500 
+0 < xi <= 105
 ```
 * Output Format
 ```
