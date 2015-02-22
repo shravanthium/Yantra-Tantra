@@ -3,6 +3,7 @@ An attempt to learn, explore and experiment with Machine Learning Algorithms.
 
 ###Problem 1: Warmup Stats
 Given an array of N integers separated by spaces, all in one line. 
+
 Display the following: 
 1. Mean (m):  
 ...The average of all the integers.
